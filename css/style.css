@@ -1,0 +1,37 @@
+
+  
+
+
+ caption{
+  color: blueviolet;
+  font-weight:2;
+ }                 
+  
+ 
+ 
+ 
+  table{
+    border-collapse: collapse;
+    background-color: aqua;
+    
+  }
+
+
+  tr:nth-of-type(1)>th,
+  tr:nth-of-type(2)>th {
+    
+        background-color: antiquewhite;
+}
+
+
+
+
+
+
+   
+  
+
+
+
+    
+   
